@@ -7,4 +7,4 @@ title: Home
 
 Your one-stop blog for everything tech and geek culture. From coding tutorials to gadget reviews, we've got it all.
 
-Check out the [Blog](/blog/) or [About](/about/) to learn more.
+Check out the [Blog](segkp/blog/) or [About](segkp/about/) to learn more.
