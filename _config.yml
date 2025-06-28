@@ -1,0 +1,11 @@
+title: Tech and Geek
+description: >- 
+  A blog about tech, code, and all things geeky.
+baseurl: "" 
+url: "https://your-username.github.io"
+
+theme: jekyll-theme-hacker
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
